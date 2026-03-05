@@ -1,0 +1,6 @@
+
+# ignore large/local files
+word_embedding.pkl
+Data_Embedding/
+.DS_Store
+.ipynb_checkpoints/
